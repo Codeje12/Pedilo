@@ -1,0 +1,24 @@
+#NUEO!!
+.main-inputs, .productos-render{
+    display:flex;
+}
+
+.input-container{
+    margin-top:10px;
+}
+
+.hiden{
+    display:none;
+}
+
+.btn-add{
+    border-radius: 45%;
+}
+
+.container-form{
+    margin-top: 5%;
+}
+
+.container-btns{
+    margin-top: 2%;
+}
